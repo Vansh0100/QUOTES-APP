@@ -1,0 +1,17 @@
+div.card-header{
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+}
+blockquote span{
+    font-family: 'Satisfy',cursive;
+    font-size: 25px;
+}
+figcaption{
+    font-family:cursive;
+}
+div.card{
+    box-shadow: rgba(206, 30, 30, 0.719) 0px 10px 20px, rgba(206, 30, 30, 0.719) 0px 6px 6px;
+}
+div.card:hover{
+    box-shadow: rgba(28, 217, 223, 0.596) 0px 20px 30px;
+}
